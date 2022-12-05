@@ -1,0 +1,200 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Metal+Mania&family=Open+Sans:ital,wght@1,600&family=Poppins:wght@300;400;500;600;700&display=swap'); */
+body {
+  font-family: "Roboto", sans-serif;
+  font-size: 48px;
+}
+
+element.style {
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+user agent stylesheet div {
+  display: block;
+}
+.card {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  min-width: 0;
+  word-wrap: break-word;
+  background-color: #fff;
+  background-clip: border-box;
+  border: 1px solid rgba(34, 41, 47, 0.125);
+  border-radius: 0.428rem;
+}
+html body {
+  height: 100%;
+  background-color: #f8f8f8;
+  direction: ltr;
+}
+body {
+  margin: 0;
+  font-family: "Montserrat", Helvetica, Arial, serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.45;
+  color: #6e6b7b;
+  text-align: left;
+  background-color: #f8f8f8;
+}
+style attribute {
+  --vh: 9.62px;
+}
+:root {
+  blue: #00cfe8;
+  indigo: #6610f2;
+  --purple: #7367f0;
+  --pink: #e83e8c;
+  --red: #ea5455;
+  --orange: #ff9f43;
+  --yellow: #ffc107;
+  --green: #28c76f;
+  --teal: #20c997;
+  --cyan: #17a2b8;
+  --white: #fff;
+  --gray: #b8c2cc;
+  --gray-dark: #1e1e1e;
+  --primary: #7367f0;
+  --secondary: #82868b;
+  --success: #28c76f;
+  --info: #00cfe8;
+  --warning: #ff9f43;
+  --danger: #ea5455;
+  --light: #f6f6f6;
+  --dark: #4b4b4b;
+  --breakpoint-xs: 0;
+  --breakpoint-sm: 576px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 992px;
+  --breakpoint-xl: 1200px;
+  --font-family-sans-serif: "Montserrat", Helvetica, Arial, serif;
+  --font-family-monospace: "Montserrat", Helvetica, Arial, serif;
+}
+html {
+  font-size: 14px;
+  height: 100%;
+  letter-spacing: 0.01rem;
+}
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+  -webkit-tap-highlight-color: rgba(34, 41, 47, 0);
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+* {
+  padding: 0;
+  margin: 0;
+  font-family: "Metal Mania", cursive;
+  font-family: "Open Sans", sans-serif;
+  font-family: "Poppins", sans-serif;
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  line-height: 1.15;
+  color: #111;
+}
+h2 {
+  font-size: 30px;
+  color: rgb(242, 5, 5);
+  padding: 60px 20px;
+  text-transform: uppercase;
+  border: 1px solid black;
+  display: inline-block;
+  color: rgb(252, 118, 122);
+  font-weight: 600;
+}
+ul.products {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+ul.products li {
+  flex-basis: 20%;
+  padding-left: 15px;
+  box-sizing: border-box;
+  margin-bottom: 30px;
+}
+ul.products li img {
+  max-width: 100%;
+  height: auto;
+}
+ul.products li .product-top {
+  position: relative;
+  overflow: hidden;
+}
+ul.products li .product-top .product-thumb {
+  display: block;
+}
+ul.products li:hover .product-top .product-thumb img {
+  filter: opacity(60%);
+}
+ul.products li .product-top .product-thumb img {
+  display: block;
+}
+
+ul.products li .product-top a.buy-now {
+  text-transform: uppercase;
+  text-decoration: none;
+  text-align: center;
+  display: block;
+  background-color: rgba(57, 114, 247, 0.928);
+  color: #fff;
+  padding: 10px 0px;
+  position: absolute;
+  bottom: -36px;
+  width: 100%;
+  transition: 0.3s ease-in-out;
+  opacity: 0.85;
+}
+ul.products li:hover a.buy-now {
+  bottom: 0px;
+}
+
+ul.products li .product-info {
+  padding: 20px 0px;
+}
+ul.products li .product-info a {
+  display: block;
+  text-decoration: none;
+}
+ul.products li .product-info a .product-cat {
+  font-size: 11px;
+  text-transform: uppercase;
+  color: rgb(251, 255, 0);
+  padding: 3px 0px;
+}
+ul.products li .product-info a.product-name {
+  color: rgb(254, 2, 128);
+  padding: 3px 0px;
+}
+ul.products li .product-info .product-price {
+  color: #111;
+  padding: 2px 0px;
+  font-weight: 600;
+}
+#wrapper {
+  max-width: 1170px;
+  margin: 0 auto;
+}
+.headline {
+  text-align: center;
+  margin: 40px 0px;
+}
+.logo img {
+  max-width: 140px;
+}
